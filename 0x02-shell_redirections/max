@@ -1,0 +1,16 @@
+total 52
+-rw-r--r-- 1 root root    0 Dec  5 05:12 max
+-rwxr-xr-- 1 root root   37 Dec  5 05:01 11-directories
+drwxr-xr-x 3 root root   15 Dec  5 04:59 js
+-rwxr-xr-- 1 root root   46 Dec  5 04:41 10-no_more_js
+-rw-r--r-- 1 root root 1144 Dec  5 04:27 README.md
+-rwxr-xr-- 1 root root   38 Dec  5 04:11 9-duplicate_last_line
+-rw-r--r-- 1 root root  799 Dec  5 04:10 iacta
+-rwxr-xr-- 1 root root   36 Dec  5 04:01 8-cwd_state
+-rwxr-xr-- 1 root root   38 Dec  5 03:32 6-third_line
+-rwxr-xr-- 1 root root   35 Dec  5 03:26 5-firstlines
+-rwxr-xr-- 1 root root   35 Dec  5 03:21 4-lastlines
+-rwxr-xr-- 1 root root   40 Dec  5 03:14 3-twofiles
+-rwxr-xr-- 1 root root   28 Dec  5 03:12 2-hellofile
+-rwxr-xr-- 1 root root   28 Dec  5 02:53 1-confused_smiley
+-rwxr-xr-- 1 root root   32 Dec  5 02:42 0-hello_world
